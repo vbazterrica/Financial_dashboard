@@ -56,6 +56,11 @@ The system implements standard quantitative finance techniques:
 
 ![Dashboard](image_dashboard.png)
 
+--
+# 💼 Quantitative Portfolio Analytics System
+
+👉 🌐 Live App: [Open Dashboard](https://financialdashboard-5qmm6wasm28oemyybptqww.streamlit.app/))
+
 ## 🛠️ Tech Stack
 
 - Python 3.9+
